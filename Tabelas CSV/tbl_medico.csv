@@ -1,0 +1,4 @@
+medico_crm,medico_crmDigito,medico_nome,medico_uf,medico_crmUf,medico_endereco,medico_telefone,medico_cidade
+12345,6,George,SP,CRM-SP,"Rua das Flores, 100",(11) 9876-5432,1
+67890,1,Amalia,RJ,CRM-RJ,"Av. Brasil, 200",(21) 91234-5678,2
+54321,7,Allan,MG,CRM-MG,"Praça da Liberdade, 50",(31) 99876-1234,5
